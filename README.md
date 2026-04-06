@@ -15,11 +15,11 @@ Ideal for technical documents, legal files, or books requiring complex numbering
 ## 🚀 Installation (Linux/Ubuntu)
 1. Install dependencies:
    ```bash
-   pip install PyQt6 PyMuPDF```
+   pip install PyQt6 PyMuPDF
    
 2. Run the application :
    ```bash
-   python3 main.py```
+   python3 main.py
 
 ## 🛠 Tech Stack
     Python 3
